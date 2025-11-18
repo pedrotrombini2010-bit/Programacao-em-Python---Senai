@@ -1,0 +1,17 @@
+Scrum master (SM): O Scrum Master (SM) é fundamental para manter a agilidade da equipe, atuando como um líder servidor e guardião do processo. Sua principal função é garantir que 
+todos compreendam e adotem os valores, princípios e práticas do Scrum, e que a Equipe de Desenvolvimento atinja a auto-organização e a alta produtividade. O SM aprimora continuamente 
+os processos da equipe através das Retrospectivas e é o responsável por remover impedimentos que possam atrapalhar o andamento das Sprints. Além disso, ele protege o time de interferências
+externas, permitindo que o foco total permaneça na entrega do Incremento.
+
+O Scrum Master (SM) é fundamental para manter a agilidade da equipe, atuando como um líder servidor e guardião do processo. Sua principal função é garantir que todos compreendam e adotem 
+os valores, princípios e práticas do Scrum, e que a Equipe de Desenvolvimento atinja a auto-organização e a alta produtividade. O SM aprimora continuamente os processos da equipe através 
+das Retrospectivas e é o responsável por remover impedimentos que possam atrapalhar o andamento das Sprints. Além disso, ele protege o time de interferências externas, permitindo que o 
+foco total permaneça na entrega do Incremento.
+
+O Product Owner (PO) é o único responsável por maximizar o valor do trabalho resultante do Time de Desenvolvimento. Ele gerencia o Product Backlog (a lista de funcionalidades/requisitos
+do produto), o que inclui definir, detalhar e ordenar os itens por importância. O PO é a voz do cliente e do negócio, garantindo que o backlog esteja sempre claro e transparente para todos.
+Sua importância reside em garantir que a equipe de tecnologia esteja trabalhando nas tarefas mais valiosas, otimizando o Retorno sobre o Investimento (ROI) em cada ciclo de desenvolvimento.
+
+A Equipe de Tecnologia é o coração da criação de valor. Ela é o grupo multifuncional e auto-organizado que executa o trabalho: transforma os itens selecionados do Product Backlog em um
+Incremento Potencialmente Lançável ao final de cada Sprint. Sua função abrange todas as atividades técnicas — design, desenvolvimento, teste e integração. A importância do time reside em sua
+capacidade de construir e entregar, de fato, o produto, aderindo a uma clara "Definition of Done" (DoD) para assegurar a qualidade e a transparência do que é entregue.
